@@ -1,3 +1,1 @@
-¿Que se hace aqui 🙃?
-
-No se ni porque sigo vivo aun 👾
+<img loading="lazy" src="https://juanelocode.xyz/img/waifu.png" heigth="200px">
